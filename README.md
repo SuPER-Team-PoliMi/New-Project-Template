@@ -14,3 +14,12 @@ Download ```C++ start-up template.zip``` from *release* page in GitHub and copy 
 When creating a new project in Visual Studio search for _C++ start-up template_ in the search bar of the "New Project" window, the result should be at the bottom of the list.
 
 ![image-20211115164715396](C:\Users\agaleazzi\AppData\Roaming\Typora\typora-user-images\image-20211115164715396.png)
+
+
+
+### Git
+
+#### .gitignore
+
+The templated project is shipped with a custom ```.gitignore``` made for Visual Studio and C++. It is directly located in the project folder and it should be moved to the solution folder (one folder up).
+
