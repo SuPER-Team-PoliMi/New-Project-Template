@@ -5,7 +5,7 @@
 
 ## Installation
 
-Download ```C++ start-up template.zip``` from *release* page in GitHub and copy it in ```C:\Users\[USERNAME]\Documents\Visual Studio 2019\Templates\ProjectTemplates\``` (for standard visual studio 2019 installations).
+Download ```C++ start-up template.zip``` from *release* page in GitHub and extract it in ```C:\Users\[USERNAME]\Documents\Visual Studio 2019\Templates\ProjectTemplates\``` (for standard visual studio 2019 installations).
 
 
 
